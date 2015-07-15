@@ -32,8 +32,8 @@ Onsen UI is tested with the following browsers and mobile OS.
 
 ## What's Included
 
-* [AngularJS](angularjs.org): for directives
-* [Topcoat](topcoat.io): for fast UI css
+* [AngularJS](http://angularjs.org): for directives
+* [Topcoat](http://topcoat.io): for fast UI css
 * [HammerJS](http://eightmedia.github.io/hammer.js/): for touch, swipe handling
 * [Font Awesome](http://fontawesome.io/): for icons
 
